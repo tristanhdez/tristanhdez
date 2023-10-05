@@ -1,4 +1,4 @@
-### Hi everyone, I'm Tristan and I'm Python Developer Student
+### Hi everyone, I'm Tristan
 
 <!--
 **tristanhdez/tristanhdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,11 +6,6 @@
 Here are some ideas to get you started:
 
 -->
-
-### 👨🏽‍💻 About Me :
-
-- 🔭 I’m currently open to work
-- 👯 I’m looking to collaborate on any project
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
